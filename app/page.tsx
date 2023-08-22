@@ -6,6 +6,6 @@ const Home = () => {
         <h1>LoadMore</h1>
     </section>
   )
-}
+};
 
 export default Home;
